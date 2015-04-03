@@ -1,0 +1,5 @@
+Login;Group;
+#login1;Group1
+login2;Группа2
+логин3;Group3
+логин4;Группа2
